@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "momo",
-    "currentPage": "page3.html",
+    "currentPage": "galerry.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -85,10 +85,10 @@
         }
       ]
     },
-    "page1.html": {
+    "home.html": {
       "settings": {
-        "title": "Page 1",
-        "meta_descr": "",
+        "title": "home",
+        "meta_descr": "home of our hotels",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -415,10 +415,10 @@
         }
       ]
     },
-    "page2.html": {
+    "contact.html": {
       "settings": {
-        "title": "Page 2",
-        "meta_descr": "",
+        "title": "contact",
+        "meta_descr": "contact us",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -528,9 +528,9 @@
         }
       ]
     },
-    "page3.html": {
+    "serveces.html": {
       "settings": {
-        "title": "Page 3",
+        "title": "serveces",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -690,9 +690,9 @@
         }
       ]
     },
-    "page4.html": {
+    "galerry.html": {
       "settings": {
-        "title": "Page 4",
+        "title": "gallery",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
