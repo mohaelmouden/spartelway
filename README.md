@@ -1,0 +1,2 @@
+# spartelway
+GitHub Pages
