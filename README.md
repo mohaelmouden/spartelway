@@ -1,2 +1,0 @@
-# spartelway
-GitHub Pages
